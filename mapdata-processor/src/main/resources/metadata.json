@@ -1,0 +1,6 @@
+[
+  {"id": "loc_01", "type": "restaurant", "rating": 4.5, "reviews": 120},
+  {"id": "loc_02", "type": "hotel", "rating": 4.2, "reviews": 200},
+  {"id": "loc_03", "type": "cafe", "rating": 4.7, "reviews": 150},
+  {"id": "loc_04", "type": "museum", "rating": 4.0, "reviews": 500}
+]
